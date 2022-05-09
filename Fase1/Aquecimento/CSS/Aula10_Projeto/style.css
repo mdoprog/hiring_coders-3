@@ -56,9 +56,9 @@ header ul li a:hover {
   text-decoration: underline;
 }
 
-header ul li:first-child {
-  /* border-left: 2px dashed #FFF; */
-}
+/* header ul li:first-child {
+  border-left: 2px dashed #FFF;
+} */
 .container {
   text-align: center;
 }
